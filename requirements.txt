@@ -38,6 +38,7 @@ protobuf==5.29.5
 pyarrow==20.0.0
 pydeck==0.9.1
 Pygments==2.19.1
+python==3.10.0
 python-dateutil==2.9.0.post0
 pytz==2025.2
 referencing==0.36.2
@@ -50,7 +51,7 @@ streamlit==1.45.1
 tenacity==9.1.2
 tensorboard==2.19.0
 tensorboard-data-server==0.7.2
-tensorflow==2.18.0
+tensorflow==2.19.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==3.1.0
 toml==0.10.2
