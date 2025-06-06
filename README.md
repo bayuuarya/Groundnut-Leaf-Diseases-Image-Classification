@@ -1,1 +1,0 @@
-# Groundnut-Leaf-Diseases-Image-Classification
